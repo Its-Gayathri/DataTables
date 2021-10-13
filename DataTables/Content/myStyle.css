@@ -1,0 +1,19 @@
+﻿.stripe1 {
+    background-color: #E8E8E8;
+}
+
+.stripe2 {
+    background-color: #D9C4EC;/*skyblue*/
+    border-bottom: solid #c0c0c0;
+}
+table.dataTable thead tr {
+    background-color: mediumblue;
+    color:white;
+}
+table.dataTable thead th {
+    background-color: mediumblue;
+    color: white;
+}
+table.dataTable thead th::after {
+        color: white;
+}
